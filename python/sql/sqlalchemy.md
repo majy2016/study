@@ -1,3 +1,5 @@
+sqlacodegen mysql://root:root@127.0.0.1:3306/mydb > models.py
+
 1. 基本用法
 ```
 实例化对象：user = User(name='admin', password='123456')
